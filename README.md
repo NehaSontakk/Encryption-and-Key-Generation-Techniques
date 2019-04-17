@@ -2,4 +2,5 @@
 Information and Cyber Security Class Assignments
 
 
-## To understand SDES math : https://www.youtube.com/watch?v=QcKHfMgcnbw
+## To understand SDES math : 
+https://www.youtube.com/watch?v=QcKHfMgcnbw
