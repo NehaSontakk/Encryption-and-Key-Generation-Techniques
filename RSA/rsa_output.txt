@@ -1,0 +1,22 @@
+######## Server Terminal
+
+Enter a prime number: 13
+Enter another prime number: 7
+Are the numbers selected correct:  True True
+[5, 7, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]
+Choose an e: 7
+decryption key:  679
+Connected to localhost.
+Listening..
+Connected at  ('127.0.0.1', 45254)
+Recieved Plaintext is:  23
+
+
+
+
+######## Client terminal
+
+Connected to server.
+Public key recieved:  91 7
+Sending Plaintext:  23
+Connection closed.
