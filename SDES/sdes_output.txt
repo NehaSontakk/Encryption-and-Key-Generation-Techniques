@@ -1,0 +1,42 @@
+After P10:  1000001100
+First half:  10000
+Second half:  01100
+Left shift first half:  00001
+Left shift second half:  11000
+Key after P8 permutation 10100100
+First key is:  10100100
+Left shift previous left shift by 2:  00100
+Left shift second half by 2:  00011
+Second key is:  01000011
+Given plaintext:  01110010
+Plaintext after IP:  10101001
+Plaintext part 1:  1010
+Plaintext part 2:  1001
+Expansion of plaintext part 2:  11000011
+After Xor with key:  01100111
+First half:  0110
+First half through S0:  10
+Second half through S1:  11
+Combined Sbox:  1011
+Round 1 part 1 & 2:  1101 1001
+Expansion of plaintext part 2:  11000011
+After Xor with key:  10000000
+First half:  1000
+First half through S0:  00
+Second half through S1:  00
+Combined Sbox:  0000
+Round 2 part 1 & 2:  1101 1001
+Cipher Text:  11010110
+Expansion of plaintext part 2:  11000011
+After Xor with key:  10000000
+First half:  1000
+First half through S0:  00
+Second half through S1:  00
+Combined Sbox:  0000
+Expansion of plaintext part 2:  11000011
+After Xor with key:  01100111
+First half:  0110
+First half through S0:  10
+Second half through S1:  11
+Combined Sbox:  1011
+Plaintext Again:  01110010
